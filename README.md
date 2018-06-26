@@ -56,3 +56,4 @@ This repo has collection of example
 | ex1 | Simple example to create an EC2 instance |
 | ex2 | Use of Variables and Outputs |
 | ex3 | EMR Cluster and use of data sources |
+| ex4 | Remote Backend |
