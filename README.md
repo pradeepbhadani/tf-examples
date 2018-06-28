@@ -57,3 +57,4 @@ This repo has collection of example
 | ex2 | Use of Variables and Outputs |
 | ex3 | EMR Cluster and use of data sources |
 | ex4 | Remote Backend |
+| ex5 | Using Module |
